@@ -2,7 +2,7 @@ module.exports.onWindow = browserWindow =>
   browserWindow.setVibrancy("ultra-dark");
 
 const foregroundColor = "#fff";
-const backgroundColor = "rgba(0, 0, 0, 1)";
+const backgroundColor = "rgba(33, 33, 33, 1)";
 const overlap = "rgba(0, 0, 0, .15)";
 const red = "#FF3B30";
 const green = "#4CD964";
